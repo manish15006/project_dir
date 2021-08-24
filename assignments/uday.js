@@ -1,3 +1,3 @@
 <script>
-document.getElementById("demo").innerHTML = "My First JavaScript";
+document.getElementById("demo is great").innerHTML = "My First JavaScript";
 </script>
